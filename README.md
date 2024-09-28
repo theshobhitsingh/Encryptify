@@ -61,15 +61,15 @@ A secure file encryption and decryption tool written in C++, utilizing advanced 
 
 ## Code Structure
 encryptify/
-├── .idea/               # IDE configuration files
-├── .vscode/             # Visual Studio Code configuration files
-├── src/                 # Source files
-│   ├── main.cpp         # Main application logic
-│   └── app/             # Application specific logic
-├── .env                 # Environment variables configuration
-├── .gitignore           # Files to ignore in Git
-├── Makefile             # Build instructions
-└── makeDirs.py          # Script to create necessary directories
+├── .idea/               # IDE configuration files <br>
+├── .vscode/             # Visual Studio Code configuration files <br>
+├── src/                 # Source files <br>
+│   ├── main.cpp         # Main application logic <br>
+│   └── app/             # Application specific logic <br>
+├── .env                 # Environment variables configuration <br>
+├── .gitignore           # Files to ignore in Git <br>
+├── Makefile             # Build instructions <br>
+└── makeDirs.py          # Script to create necessary directories <br>
 
 ## Usage
 1. Start by compiling the application as mentioned above.
@@ -80,11 +80,8 @@ encryptify/
 Contributions are encouraged! Please follow these steps to contribute:
 
 I. Fork the repository: git checkout -b feature/YourFeature
-
 II.Make your changes and commit: git commit -m "Add your feature"
-
 III. Push to the branch: git push origin feature/YourFeature
-
 IV. Create a pull request.
 
 ## Acknowledgments
@@ -95,4 +92,3 @@ Inspired by the need for secure file handling and modern encryption techniques. 
 This project is developed by ***Shobhit Singh***
 
 Feel free to reach out for any questions or collaborations!
-
