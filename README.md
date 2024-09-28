@@ -65,11 +65,11 @@ encryptify/ <br>
 ├── .vscode/             // Visual Studio Code configuration files <br>
 ├── src/                 // Source files <br>
 │   └──> main.cpp        // Main application logic <br>
-│   └──> app/             //Application specific logic <br>
+│   └──> app/            // Application specific logic <br>
 ├── .env                 // Environment variables configuration <br>
-├── .gitignore           # Files to ignore in Git <br>
-├── Makefile             # Build instructions <br>
-└── makeDirs.py          # Script to create necessary directories <br>
+├── .gitignore           // Files to ignore in Git <br>
+├── Makefile             // Build instructions <br>
+└── makeDirs.py          // Script to create necessary directories <br>
 
 ## Usage
 1. Start by compiling the application as mentioned above.
