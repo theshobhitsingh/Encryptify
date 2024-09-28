@@ -76,3 +76,9 @@ encrypty/
 Contributions are encouraged! Please follow these steps to contribute:
 
 Fork the repository.
+git checkout -b feature/YourFeature
+
+Make your changes and commit:
+bash
+Copy code
+git commit -m "Add your feature"
