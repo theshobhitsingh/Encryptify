@@ -56,3 +56,14 @@ To decrypt a file, use:
 Replace <input_file> and <output_file> with the paths to your files.
 
 ## Code Structure
+encrypty/
+├── .idea/               # IDE configuration files
+├── .vscode/             # Visual Studio Code configuration files
+├── src/                 # Source files
+│   ├── main.cpp         # Main application logic
+│   └── app/             # Application specific logic
+├── .env                 # Environment variables configuration
+├── .gitignore           # Files to ignore in Git
+├── Makefile             # Build instructions
+└── makeDirs.py          # Script to create necessary directories
+
