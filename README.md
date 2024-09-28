@@ -16,7 +16,7 @@ A secure file encryption and decryption tool written in C++, utilizing advanced 
 - [Developer](#developer)
 
 ## Introduction
-**Encryptify is a robust file encryption and decryption application designed to secure sensitive data. Leveraging C++’s capabilities, the application efficiently manages file operations with multithreading, ensuring that encryption and decryption processes are both secure and efficient. The application implements semaphores and locks to coordinate access to shared resources, preventing data corruption.
+**Encryptify** is a robust file encryption and decryption application designed to secure sensitive data. Leveraging C++’s capabilities, the application efficiently manages file operations with multithreading, ensuring that encryption and decryption processes are both secure and efficient. The application implements semaphores and locks to coordinate access to shared resources, preventing data corruption.
 
 ## Features
 - **File Encryption/Decryption:** Securely encrypts and decrypts files using strong algorithms.
