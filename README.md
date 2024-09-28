@@ -50,12 +50,14 @@ A secure file encryption and decryption tool written in C++, utilizing advanced 
    make
 
 ## Running the Application
-To run the encryption application, use the following command:
-```bash
+1. To run the encryption application, use the following command:
+   ```bash
 ./encryptify --encrypt <input_file> <output_file>
-To decrypt a file, use:
-./encryptify --decrypt <input_file> <output_file>
-
+  ```
+2. To decrypt a file, use:
+   ```bash
+   ./encryptify --encrypt <input_file> <output_file>
+  ```
 
 ## Code Structure
 encrypty/
@@ -68,7 +70,6 @@ encrypty/
 ├── .gitignore           # Files to ignore in Git
 ├── Makefile             # Build instructions
 └── makeDirs.py          # Script to create necessary directories
-
 ## Usage
 1. Start by compiling the application as mentioned above.
 2. Use the command-line interface to encrypt or decrypt files.
