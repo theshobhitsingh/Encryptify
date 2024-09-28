@@ -61,12 +61,12 @@ A secure file encryption and decryption tool written in C++, utilizing advanced 
 
 ## Code Structure
 encryptify/ <br>
-├── .idea/               # IDE configuration files <br>
-├── .vscode/             # Visual Studio Code configuration files <br>
-├── src/                 # Source files <br>
-│   └──> main.cpp         # Main application logic <br>
-│   └──> app/             # Application specific logic <br>
-├── .env                 # Environment variables configuration <br>
+├── .idea/               // IDE configuration files <br> 
+├── .vscode/             // Visual Studio Code configuration files <br>
+├── src/                 // Source files <br>
+│   └──> main.cpp        // Main application logic <br>
+│   └──> app/             //Application specific logic <br>
+├── .env                 // Environment variables configuration <br>
 ├── .gitignore           # Files to ignore in Git <br>
 ├── Makefile             # Build instructions <br>
 └── makeDirs.py          # Script to create necessary directories <br>
