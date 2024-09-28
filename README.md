@@ -1,4 +1,4 @@
-# Encrypty: A File Encryptor and Decryptor
+# Encryptify: A File Encryptor and Decryptor
 A secure file encryption and decryption tool written in C++, utilizing advanced synchronization mechanisms like semaphores and locks to ensure data integrity and safety.
 
 ## Table of Contents
@@ -52,3 +52,5 @@ To run the encryption application, use the following command :
 ./encrypty --encrypt <input_file> <output_file>
 
 To decrypt a file, use:
+./encrypty --decrypt <input_file> <output_file>
+Replace <input_file> and <output_file> with the paths to your files.
