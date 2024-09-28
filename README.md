@@ -54,3 +54,5 @@ To run the encryption application, use the following command :
 To decrypt a file, use:
 ./encrypty --decrypt <input_file> <output_file>
 Replace <input_file> and <output_file> with the paths to your files.
+
+## Code Structure
