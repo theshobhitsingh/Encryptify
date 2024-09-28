@@ -52,16 +52,16 @@ A secure file encryption and decryption tool written in C++, utilizing advanced 
 
 ## Running the Application
 1. To run the encryption application, use the following command:
-   ```bash
-    ./encryptify --encrypt <input_file> <output_file>
-   ```
-2. To decrypt a file, use:
-   ```bash
+   
+  ./encryptify --encrypt <input_file> <output_file>
+  
+3. To decrypt a file, use:
+   
    ./encryptify --encrypt <input_file> <output_file>
-  ```
+  
 
 ## Code Structure
-encrypty/
+encryptify/
 ├── .idea/               # IDE configuration files
 ├── .vscode/             # Visual Studio Code configuration files
 ├── src/                 # Source files
