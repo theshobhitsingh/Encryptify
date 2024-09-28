@@ -44,3 +44,11 @@ A secure file encryption and decryption tool written in C++, utilizing advanced 
    ```bash
    git clone https://github.com/yourusername/encrypty.git
    cd encrypty
+2. Compile the application using the Makefile
+  make
+
+## Running the Application
+To run the encryption application, use the following command :
+./encrypty --encrypt <input_file> <output_file>
+
+To decrypt a file, use:
