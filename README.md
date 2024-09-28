@@ -82,3 +82,7 @@ Make your changes and commit:
 bash
 Copy code
 git commit -m "Add your feature"
+3. Push to the branch:
+bash
+Copy code
+git push origin feature/YourFeature
