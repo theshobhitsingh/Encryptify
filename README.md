@@ -46,9 +46,7 @@ A secure file encryption and decryption tool written in C++, utilizing advanced 
    cd encryptify
    
 2. Compile the application using the Makefile:
-   ```bash
       make
-   ```
 
 ## Running the Application
 1. To run the encryption application, use the following command:
