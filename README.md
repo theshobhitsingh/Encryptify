@@ -42,18 +42,19 @@ A secure file encryption and decryption tool written in C++, utilizing advanced 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/encrypty.git
+   git clone https://github.com/yourusername/encryptify.git
    cd encryptify
    
 2. Compile the application using the Makefile:
    ```bash
-   make
+      make
+   ```
 
 ## Running the Application
 1. To run the encryption application, use the following command:
    ```bash
-./encryptify --encrypt <input_file> <output_file>
-  ```
+    ./encryptify --encrypt <input_file> <output_file>
+   ```
 2. To decrypt a file, use:
    ```bash
    ./encryptify --encrypt <input_file> <output_file>
