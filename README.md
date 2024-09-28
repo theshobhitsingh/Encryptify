@@ -67,3 +67,7 @@ encrypty/
 ├── Makefile             # Build instructions
 └── makeDirs.py          # Script to create necessary directories
 
+## Usage
+1. Start by compiling the application as mentioned above.
+2. Use the command-line interface to encrypt or decrypt files.
+3. Ensure that the files you are working with have the appropriate permissions for reading and writing.
