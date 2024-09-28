@@ -46,16 +46,17 @@ A secure file encryption and decryption tool written in C++, utilizing advanced 
    cd encryptify
    
 2. Compile the application using the Makefile:
+   ```bash
       make
 
 ## Running the Application
 1. To run the encryption application, use the following command:
-   
-  ./encryptify --encrypt <input_file> <output_file>
+   ```bash
+     ./encryptify --encrypt <input_file> <output_file>
   
 3. To decrypt a file, use:
-   
-   ./encryptify --encrypt <input_file> <output_file>
+   ```bash
+    ./encryptify --encrypt <input_file> <output_file>
   
 
 ## Code Structure
@@ -69,27 +70,23 @@ encryptify/
 ├── .gitignore           # Files to ignore in Git
 ├── Makefile             # Build instructions
 └── makeDirs.py          # Script to create necessary directories
+
 ## Usage
 1. Start by compiling the application as mentioned above.
 2. Use the command-line interface to encrypt or decrypt files.
 3. Ensure that the files you are working with have the appropriate permissions for reading and writing.
 
-##Contributing
+## Contributing
 Contributions are encouraged! Please follow these steps to contribute:
 
-Fork the repository.
-git checkout -b feature/YourFeature
+I. Fork the repository: git checkout -b feature/YourFeature
 
-Make your changes and commit:
-bash
-Copy code
-git commit -m "Add your feature"
-3. Push to the branch:
-bash
-Copy code
-git push origin feature/YourFeature
+II.Make your changes and commit: git commit -m "Add your feature"
 
-Create a pull request.
+III. Push to the branch: git push origin feature/YourFeature
+
+IV. Create a pull request.
+
 ## Acknowledgments
 Inspired by the need for secure file handling and modern encryption techniques. Special thanks to the open-source community for their contributions and shared knowledge in C++ development.
 
