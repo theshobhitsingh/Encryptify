@@ -80,7 +80,7 @@ encryptify/ <br>
 Contributions are encouraged! Please follow these steps to contribute:
 
 I. Fork the repository: git checkout -b feature/YourFeature
-II.Make your changes and commit: git commit -m "Add your feature"
+II. Make your changes and commit: git commit -m "Add your feature"
 III. Push to the branch: git push origin feature/YourFeature
 IV. Create a pull request.
 
