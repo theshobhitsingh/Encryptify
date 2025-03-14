@@ -89,5 +89,4 @@ Inspired by the need for secure file handling and modern encryption techniques. 
 
 ## Developer
 This project is developed by ***Shobhit Singh***
-
 Feel free to reach out for any questions or collaborations!
