@@ -88,5 +88,5 @@ IV. Create a pull request.
 Inspired by the need for secure file handling and modern encryption techniques. Special thanks to the open-source community for their contributions and shared knowledge in C++ development.
 
 ## Developer
-This project is developed by ***Shobhit Singh***
+This project is developed by ***Shobhit Singh*** <br>
 Feel free to reach out for any questions or collaborations!
