@@ -72,17 +72,17 @@ encryptify/ <br>
 └── makeDirs.py          // Script to create necessary directories <br>
 
 ## Usage
-1. Start by compiling the application as mentioned above.
-2. Use the command-line interface to encrypt or decrypt files.
-3. Ensure that the files you are working with have the appropriate permissions for reading and writing.
+1. Start by compiling the application as mentioned above. <br>
+2. Use the command-line interface to encrypt or decrypt files. <br>
+3. Ensure that the files you are working with have the appropriate permissions for reading and writing. <br>
 
 ## Contributing
 Contributions are encouraged! Please follow these steps to contribute:
 
-I. Fork the repository: git checkout -b feature/YourFeature
-II. Make your changes and commit: git commit -m "Add your feature"
-III. Push to the branch: git push origin feature/YourFeature
-IV. Create a pull request.
+I. Fork the repository: git checkout -b feature/YourFeature <br>
+II. Make your changes and commit: git commit -m "Add your feature" <br>
+III. Push to the branch: git push origin feature/YourFeature <br>
+IV. Create a pull request. <br>
 
 ## Acknowledgments
 Inspired by the need for secure file handling and modern encryption techniques. Special thanks to the open-source community for their contributions and shared knowledge in C++ development.
